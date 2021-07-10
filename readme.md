@@ -12,6 +12,8 @@ Quickly generate a `.gitignore` file in your project.
 
 ## Usage
 
+Navigate to your project directory then run the following command in the terminal:
+
 ```sh
 npx @msaaddev/gitignore
 ```
