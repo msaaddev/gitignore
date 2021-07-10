@@ -1,6 +1,6 @@
 {
 	"name": "@msaaddev/gitignore",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Generates gitignore file in your project",
 	"repository": "https://github.com/msaaddev/gitignore",
 	"author": {
