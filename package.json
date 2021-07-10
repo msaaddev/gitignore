@@ -1,6 +1,6 @@
 {
 	"name": "@msaaddev/gitignore",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Generates gitignore file in your project",
 	"repository": "https://github.com/msaaddev/gitignore",
 	"author": {
@@ -9,6 +9,9 @@
 		"url": "https://twitter.com/msaaddev"
 	},
 	"main": "index.js",
+	"files": [
+		"index.js"
+	],
 	"license": "MIT",
 	"bin": {
 		"gitignore": "index.js",
