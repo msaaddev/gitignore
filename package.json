@@ -1,19 +1,28 @@
 {
-	"name": "",
+	"name": "@msaaddev/gitignore",
 	"version": "1.0.0",
-	"description": "",
-	"repository": "",
+	"description": "Generates gitignore file in your project",
+	"repository": "https://github.com/msaaddev/gitignore",
 	"author": {
-		"name": "",
-		"email": "",
-		"url": ""
+		"name": "Saad Irfan",
+		"email": "me@msaad.dev",
+		"url": "https://twitter.com/msaaddev"
 	},
 	"main": "index.js",
 	"license": "MIT",
+	"bin": {
+		"gitignore": "index.js",
+		"ignore": "index.js"
+	},
 	"scripts": {
 		"format": "prettier --write \"./**/*.{js,json}\""
 	},
-	"keywords": [],
+	"keywords": [
+		"gitignore",
+		"git ignore files",
+		"Saad Irfan",
+		"msaaddev"
+	],
 	"devDependencies": {
 		"prettier": "^2.3.2"
 	}
