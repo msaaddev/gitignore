@@ -105,6 +105,10 @@ yarn.lock
 settings.dat
 ```
 
+## ⚡️ Other Projects
+
+I have curated a [detailed list](https://github.com/msaaddev/open-source) of all the open-source projects I have authored. Do take out a moment and take a look.
+
 ## 🔑 License & Conduct
 
 - MIT © [Saad Irfan](https://github.com/msaaddev)
