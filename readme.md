@@ -103,6 +103,10 @@ assets/img/.DS_Store
 package-lock.json
 yarn.lock
 settings.dat
+
+# next.js
+/.next/
+/out/
 ```
 
 ## ⚡️ Other Projects
