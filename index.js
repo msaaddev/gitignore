@@ -2,9 +2,9 @@
 
 /**
  *
- * Author:
- * GitHub:
- * Twitter: https://twitter.com/
+ * Author: Saad Irfan
+ * GitHub: https://github.com/msaaddev
+ * Twitter: https://twitter.com/msaaddev
  */
 
 const fs = require('fs');
@@ -87,6 +87,10 @@ assets/img/.DS_Store
 package-lock.json
 yarn.lock
 settings.dat
+
+# next.js
+/.next/
+/out/
 
 `;
 
